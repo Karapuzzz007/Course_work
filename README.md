@@ -22,4 +22,4 @@
 Сборка проекта 
     cmake --build build     
 Прошивка МК 
-    cmake --install boild 
+    cmake --install build 
